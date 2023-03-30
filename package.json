@@ -1,0 +1,19 @@
+{
+  "name": "designgui",
+  "version": "1.0.0",
+  "description": "Design system GUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameschetwood/designgui.git"
+  },
+  "author": "jameschetwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameschetwood/designgui/issues"
+  },
+  "homepage": "https://github.com/jameschetwood/designgui#readme"
+}
