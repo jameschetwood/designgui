@@ -1,1 +1,5 @@
-console.log("Test")
+function helloWorld() {
+    console.log("Hello world")
+}
+
+module.exports = helloWorld;
