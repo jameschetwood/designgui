@@ -1,5 +1,5 @@
 {
-  "name": "designgui",
+  "name": "@designgui/core",
   "version": "1.0.0",
   "description": "Design system GUI",
   "main": "index.js",
